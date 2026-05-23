@@ -12,4 +12,4 @@ Human Causal Graph (HCG):A graph derived from LLM-generated clinician-style caus
 
 Cognitively Aligned Causal Graph (CACG):A graph that combines the model-derived MCG and the human-derived HCG to produce explanations that are both model-faithful and clinically interpretable.
 
-The final explanations are generated at the patient/instance level using the calibrated CACG-V3 graph.
+The final explanations are generated at the patient/instance level using the CACG graph.
